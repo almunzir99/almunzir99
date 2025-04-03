@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Almunzir Alhassan</h1>
-<h3 align="center">An Passionate Software Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🔭 I’m currently working on [Chatti - A scalable, multi-tenant chat API built using ASP.NET Core](https://github.com/almunzir99/Chatti)
 
